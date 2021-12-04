@@ -4,3 +4,4 @@ change in hub
 modifying locally
 modified remote
 modification locally 2
+modification remotely 2
